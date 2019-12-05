@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{8F0A54F0-5A0E-B6A5-A79C-E691566A2314}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/move.cs">
+    <Files>
+      <File FileName="../Downloads/AugustHTMLFile.html" Line="55" Column="138" />
+      <File FileName="../Downloads/MainHTMLFile.html" Line="1" Column="1" />
+      <File FileName="../Downloads/HackathonsHTMLFile.html" Line="29" Column="87" />
+      <File FileName="../Downloads/DarkTheme.CSS" Line="1" Column="1" />
+      <File FileName="../Downloads/LightTheme.CSS" Line="1" Column="1" />
+      <File FileName="Assets/Cameracontroller.cs" Line="1" Column="1" />
+      <File FileName="Assets/move.cs" Line="19" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
